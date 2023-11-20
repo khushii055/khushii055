@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @khushii055
+- 👀 I’m interested in front-end-development
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning 
 - 📫 How to reach me khushsharma0555@gmail.com
